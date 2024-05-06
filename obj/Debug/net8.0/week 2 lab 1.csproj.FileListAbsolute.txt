@@ -1,0 +1,14 @@
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\bin\Debug\net8.0\week 2 lab 1.exe
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\bin\Debug\net8.0\week 2 lab 1.deps.json
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\bin\Debug\net8.0\week 2 lab 1.runtimeconfig.json
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\bin\Debug\net8.0\week 2 lab 1.dll
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\bin\Debug\net8.0\week 2 lab 1.pdb
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.AssemblyInfo.cs
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.dll
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\refint\week 2 lab 1.dll
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.pdb
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\week 2 lab 1.genruntimeconfig.cache
+C:\Users\Ali\Desktop\week 2 lab 1\week 2 lab 1\obj\Debug\net8.0\ref\week 2 lab 1.dll
